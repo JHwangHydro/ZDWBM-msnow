@@ -2,8 +2,9 @@
 
 Hwang &amp; Devineni (2022) developed a parsimonious snow module based on Budyko's framework and applied it to Zhang's Dynamic Water Balance Model (ZDWBM; Zhang et al., 2008). As part of their work, a monthly parameterization was also proposed to reflect the seasonal behavior of catchment characteristics. The augmented model that includes snow with monthly parameterization (ZDWBM-msnow) showed significant improvements in simulating monthly streamflow. This git repository contains a sample Matlab code for ZDWBM-msnow from Hwang &amp; Devineni (2022) presented in the Water Resources Research. Please cite this paper if you use ZDWBM-msnow.
 
-Hwang, J., &amp; Devineni, N. (2022). An improved Zhang’s Dynamic Water Balance Model using Budyko‐based snow representation for better streamflow predictions. Water Resources Research, e2021WR030203.  
-Zhang, L., Potter, N., Hickel, K., Zhang, Y., &amp; Shao, Q. (2008). Water balance modeling over variable time scales based on the Budyko framework–Model development and testing. Journal of Hydrology, 360(1-4), 117-131.
+- Hwang, J., &amp; Devineni, N. (2022). An improved Zhang’s Dynamic Water Balance Model using Budyko‐based snow representation for better streamflow predictions. Water Resources Research, e2021WR030203.  
+
+- Zhang, L., Potter, N., Hickel, K., Zhang, Y., &amp; Shao, Q. (2008). Water balance modeling over variable time scales based on the Budyko framework–Model development and testing. Journal of Hydrology, 360(1-4), 117-131.
 
 ## Description of the Files
 
