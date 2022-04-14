@@ -10,25 +10,25 @@ Hwang &amp; Devineni (2022) developed a parsimonious snow module based on Budyko
 
 This repository contains nine files:
 
-[Discharge Data](4033000.AMM)
+[4033000.AMM](4033000.AMM) (Discharge Data)
 
-[Potential Evapotranspiration Data](4033000.PET)
+[4033000.pet](4033000.pet) (Potential Evapotranspiration Data)
 
-[Precipitation Data](4033000.PRE)
+[4033000.pre](4033000.pre) (Precipitation Data)
 
-[Daily Max Temperature Data](4033000.TMAX)
+[4033000.tmax](4033000.tmax) (Daily Max Temperature Data)
 
-[Daily Min Temperature Data](4033000.TMIN)
+[4033000.tmin](4033000.tmin) (Daily Min Temperature Data)
 
-[Geographical Data](region4_Smax100.txt)
+[region4_Smax100.txt](region4_Smax100.txt) (Geographical Data)
 
-[Main Code](Sample_code.m)
+[Sample_code.m](Sample_code.m) (Main Code)
 
-[ZDWBM-msnow](zhang_model_snow.m)
+[zhang_model_snow.m](zhang_model_snow.m) (ZDWBM-msnow Code)
 
-[Objective Function](zhangModelError.m)
+[zhangModelError.m](zhangModelError.m) (Objective Function)
 
-[Nash-Sutcliffe Efficiency](nash_sutcliffe.m)
+[nash_sutcliffe.m](nash_sutcliffe.m) (Nash-Sutcliffe Efficiency Function)
 
 ## Getting started
 This sample code estimates monthly runoff for station 4033000 based on ZDWBM-msnow. Please see Hwang & Devineni (2022) for detailed descriptions of the model.
