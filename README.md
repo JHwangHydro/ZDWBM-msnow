@@ -31,7 +31,7 @@ This repository contains ten files:
 [nash_sutcliffe.m](nash_sutcliffe.m) (Nash-Sutcliffe Efficiency Function)
 
 ## Getting started
-This sample code estimates monthly runoff for station 4033000 based on ZDWBM-msnow. Please see Hwang & Devineni (2022) for detailed descriptions of the model.
+This Matlab sample code estimates monthly runoff for station 4033000 based on ZDWBM-msnow. Please see Hwang & Devineni (2022) for detailed descriptions of the model. Put all the files in a single directory and run the [Sample_code.m](Sample_code.m) in Matlab.
 
 ## Requirements
 We tested the code using Matlab R2018b.
